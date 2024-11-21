@@ -13,8 +13,8 @@ selecciónela e importe la base de datos del sistema con phpmyadmin u otro gesto
 Importante no olvide colocar en la URL si es http o https</p>
 
 # CUENTA POR DEFECTO
-<p>Usuario: Administrador</p>
-<p>Clave: Administrador</p>
+<p>Usuario: Alexander</p>
+<p>Clave: Alexander</p>
 
 # VIDEO DE INSTALACION
 <a href="https://youtu.be/y2HTHzBaTQE" target="_blank">Ver video en YouTube</a>
